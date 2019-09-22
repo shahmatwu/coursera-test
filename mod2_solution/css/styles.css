@@ -46,7 +46,7 @@ section > h2 {
 
 section > p {
     height: 130px;
-    padding-top: 40px;
+    padding: 40px 10px 10px 10px;
     overflow: hidden;
 }
 
